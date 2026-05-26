@@ -40,6 +40,18 @@ python3 -m http.server 8000
 
 Then open `http://localhost:8000`.
 
+
+## Publish for Phone Access (GitHub Pages)
+
+This repo includes a GitHub Actions workflow at `/tmp/workspace/jwmickey/raleigh-triangle-explorer/.github/workflows/deploy-pages.yml` that deploys the site to GitHub Pages on every push to `main`.
+
+1. In GitHub, open **Settings → Pages** for this repository.
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+3. Push changes to `main` (or run the workflow manually from **Actions**).
+4. Open your live site at: `https://jwmickey.github.io/raleigh-triangle-explorer/`
+
+Once deployed, open that URL from your phone to view the map.
+
 ## Data Sources
 
 The data included here is sample/approximate starter data for prototyping.
