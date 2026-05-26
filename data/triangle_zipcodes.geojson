@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27601", "county": "Wake", "city": "Raleigh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.648, 35.785], [-78.625, 35.785], [-78.625, 35.765], [-78.648, 35.765], [-78.648, 35.785]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27603", "county": "Wake", "city": "Raleigh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.69, 35.74], [-78.63, 35.74], [-78.63, 35.69], [-78.69, 35.69], [-78.69, 35.74]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27604", "county": "Wake", "city": "Raleigh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.64, 35.835], [-78.58, 35.835], [-78.58, 35.785], [-78.64, 35.785], [-78.64, 35.835]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27605", "county": "Wake", "city": "Raleigh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.67, 35.81], [-78.64, 35.81], [-78.64, 35.785], [-78.67, 35.785], [-78.67, 35.81]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27606", "county": "Wake", "city": "Raleigh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.75, 35.79], [-78.68, 35.79], [-78.68, 35.73], [-78.75, 35.73], [-78.75, 35.79]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27607", "county": "Wake", "city": "Raleigh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.71, 35.83], [-78.66, 35.83], [-78.66, 35.79], [-78.71, 35.79], [-78.71, 35.83]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27609", "county": "Wake", "city": "Raleigh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.67, 35.88], [-78.61, 35.88], [-78.61, 35.835], [-78.67, 35.835], [-78.67, 35.88]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27610", "county": "Wake", "city": "Raleigh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.62, 35.8], [-78.53, 35.8], [-78.53, 35.72], [-78.62, 35.72], [-78.62, 35.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27612", "county": "Wake", "city": "Raleigh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.74, 35.91], [-78.68, 35.91], [-78.68, 35.85], [-78.74, 35.85], [-78.74, 35.91]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27613", "county": "Wake", "city": "Raleigh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.78, 35.93], [-78.72, 35.93], [-78.72, 35.87], [-78.78, 35.87], [-78.78, 35.93]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27511", "county": "Wake", "city": "Cary" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.81, 35.8], [-78.74, 35.8], [-78.74, 35.75], [-78.81, 35.75], [-78.81, 35.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27513", "county": "Wake", "city": "Cary" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.79, 35.86], [-78.72, 35.86], [-78.72, 35.8], [-78.79, 35.8], [-78.79, 35.86]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27519", "county": "Wake", "city": "Cary" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.84, 35.88], [-78.76, 35.88], [-78.76, 35.82], [-78.84, 35.82], [-78.84, 35.88]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27539", "county": "Wake", "city": "Apex" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.93, 35.76], [-78.84, 35.76], [-78.84, 35.69], [-78.93, 35.69], [-78.93, 35.76]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27560", "county": "Wake", "city": "Morrisville" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.87, 35.86], [-78.8, 35.86], [-78.8, 35.8], [-78.87, 35.8], [-78.87, 35.86]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27701", "county": "Durham", "city": "Durham" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.93, 36.01], [-78.88, 36.01], [-78.88, 35.97], [-78.93, 35.97], [-78.93, 36.01]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27703", "county": "Durham", "city": "Durham" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.93, 35.99], [-78.82, 35.99], [-78.82, 35.91], [-78.93, 35.91], [-78.93, 35.99]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27705", "county": "Durham", "city": "Durham" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-78.98, 36.05], [-78.9, 36.05], [-78.9, 35.99], [-78.98, 35.99], [-78.98, 36.05]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27514", "county": "Orange", "city": "Chapel Hill" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-79.0, 35.95], [-78.92, 35.95], [-78.92, 35.88], [-79.0, 35.88], [-79.0, 35.95]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ZIP": "27516", "county": "Orange", "city": "Chapel Hill/Carrboro" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-79.09, 35.98], [-78.99, 35.98], [-78.99, 35.9], [-79.09, 35.9], [-79.09, 35.98]]]
+      }
+    }
+  ]
+}

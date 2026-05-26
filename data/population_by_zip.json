@@ -1,0 +1,22 @@
+{
+  "27601": { "population": 14500, "density": 4700, "city": "Raleigh" },
+  "27603": { "population": 51700, "density": 3200, "city": "Raleigh" },
+  "27604": { "population": 49800, "density": 4100, "city": "Raleigh" },
+  "27605": { "population": 18700, "density": 5600, "city": "Raleigh" },
+  "27606": { "population": 41200, "density": 2800, "city": "Raleigh" },
+  "27607": { "population": 29800, "density": 5100, "city": "Raleigh" },
+  "27609": { "population": 35900, "density": 4500, "city": "Raleigh" },
+  "27610": { "population": 74400, "density": 3100, "city": "Raleigh" },
+  "27612": { "population": 41500, "density": 3400, "city": "Raleigh" },
+  "27613": { "population": 52100, "density": 2900, "city": "Raleigh" },
+  "27511": { "population": 34500, "density": 3700, "city": "Cary" },
+  "27513": { "population": 50300, "density": 3900, "city": "Cary" },
+  "27519": { "population": 59400, "density": 3600, "city": "Cary" },
+  "27539": { "population": 28200, "density": 2100, "city": "Apex" },
+  "27560": { "population": 32200, "density": 2600, "city": "Morrisville" },
+  "27701": { "population": 23900, "density": 5400, "city": "Durham" },
+  "27703": { "population": 62000, "density": 3000, "city": "Durham" },
+  "27705": { "population": 45800, "density": 3300, "city": "Durham" },
+  "27514": { "population": 31800, "density": 3500, "city": "Chapel Hill" },
+  "27516": { "population": 40200, "density": 2400, "city": "Chapel Hill/Carrboro" }
+}
