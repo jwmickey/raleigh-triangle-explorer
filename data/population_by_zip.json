@@ -1,22 +1,342 @@
 {
-  "27601": { "population": 14500, "density": 4700, "city": "Raleigh" },
-  "27603": { "population": 51700, "density": 3200, "city": "Raleigh" },
-  "27604": { "population": 49800, "density": 4100, "city": "Raleigh" },
-  "27605": { "population": 18700, "density": 5600, "city": "Raleigh" },
-  "27606": { "population": 41200, "density": 2800, "city": "Raleigh" },
-  "27607": { "population": 29800, "density": 5100, "city": "Raleigh" },
-  "27609": { "population": 35900, "density": 4500, "city": "Raleigh" },
-  "27610": { "population": 74400, "density": 3100, "city": "Raleigh" },
-  "27612": { "population": 41500, "density": 3400, "city": "Raleigh" },
-  "27613": { "population": 52100, "density": 2900, "city": "Raleigh" },
-  "27511": { "population": 34500, "density": 3700, "city": "Cary" },
-  "27513": { "population": 50300, "density": 3900, "city": "Cary" },
-  "27519": { "population": 59400, "density": 3600, "city": "Cary" },
-  "27539": { "population": 28200, "density": 2100, "city": "Apex" },
-  "27560": { "population": 32200, "density": 2600, "city": "Morrisville" },
-  "27701": { "population": 23900, "density": 5400, "city": "Durham" },
-  "27703": { "population": 62000, "density": 3000, "city": "Durham" },
-  "27705": { "population": 45800, "density": 3300, "city": "Durham" },
-  "27514": { "population": 31800, "density": 3500, "city": "Chapel Hill" },
-  "27516": { "population": 40200, "density": 2400, "city": "Chapel Hill/Carrboro" }
+  "27601": {
+    "population": 14500,
+    "density": 4700,
+    "city": "Raleigh"
+  },
+  "27603": {
+    "population": 51700,
+    "density": 3200,
+    "city": "Raleigh"
+  },
+  "27604": {
+    "population": 49800,
+    "density": 4100,
+    "city": "Raleigh"
+  },
+  "27605": {
+    "population": 18700,
+    "density": 5600,
+    "city": "Raleigh"
+  },
+  "27606": {
+    "population": 41200,
+    "density": 2800,
+    "city": "Raleigh"
+  },
+  "27607": {
+    "population": 29800,
+    "density": 5100,
+    "city": "Raleigh"
+  },
+  "27608": {
+    "population": 21000,
+    "density": 6200,
+    "city": "Raleigh"
+  },
+  "27609": {
+    "population": 35900,
+    "density": 4500,
+    "city": "Raleigh"
+  },
+  "27610": {
+    "population": 74400,
+    "density": 3100,
+    "city": "Raleigh"
+  },
+  "27612": {
+    "population": 41500,
+    "density": 3400,
+    "city": "Raleigh"
+  },
+  "27613": {
+    "population": 52100,
+    "density": 2900,
+    "city": "Raleigh"
+  },
+  "27614": {
+    "population": 28000,
+    "density": 1800,
+    "city": "Raleigh"
+  },
+  "27615": {
+    "population": 45000,
+    "density": 3700,
+    "city": "Raleigh"
+  },
+  "27616": {
+    "population": 38000,
+    "density": 2500,
+    "city": "Raleigh"
+  },
+  "27617": {
+    "population": 35000,
+    "density": 2300,
+    "city": "Raleigh"
+  },
+  "27511": {
+    "population": 34500,
+    "density": 3700,
+    "city": "Cary"
+  },
+  "27513": {
+    "population": 50300,
+    "density": 3900,
+    "city": "Cary"
+  },
+  "27518": {
+    "population": 28000,
+    "density": 3200,
+    "city": "Cary"
+  },
+  "27519": {
+    "population": 59400,
+    "density": 3600,
+    "city": "Cary"
+  },
+  "27502": {
+    "population": 22000,
+    "density": 1100,
+    "city": "Apex"
+  },
+  "27523": {
+    "population": 18000,
+    "density": 1100,
+    "city": "Apex"
+  },
+  "27539": {
+    "population": 28200,
+    "density": 2100,
+    "city": "Apex"
+  },
+  "27560": {
+    "population": 32200,
+    "density": 2600,
+    "city": "Morrisville"
+  },
+  "27540": {
+    "population": 43000,
+    "density": 2400,
+    "city": "Holly Springs"
+  },
+  "27526": {
+    "population": 45000,
+    "density": 1500,
+    "city": "Fuquay-Varina"
+  },
+  "27529": {
+    "population": 52000,
+    "density": 2900,
+    "city": "Garner"
+  },
+  "27545": {
+    "population": 18500,
+    "density": 1800,
+    "city": "Knightdale"
+  },
+  "27587": {
+    "population": 44000,
+    "density": 1800,
+    "city": "Wake Forest"
+  },
+  "27571": {
+    "population": 12500,
+    "density": 900,
+    "city": "Rolesville"
+  },
+  "27591": {
+    "population": 20000,
+    "density": 1200,
+    "city": "Wendell"
+  },
+  "27597": {
+    "population": 20000,
+    "density": 1300,
+    "city": "Zebulon"
+  },
+  "27562": {
+    "population": 5000,
+    "density": 350,
+    "city": "New Hill"
+  },
+  "27592": {
+    "population": 13000,
+    "density": 600,
+    "city": "Willow Spring"
+  },
+  "27701": {
+    "population": 23900,
+    "density": 5400,
+    "city": "Durham"
+  },
+  "27703": {
+    "population": 62000,
+    "density": 3000,
+    "city": "Durham"
+  },
+  "27704": {
+    "population": 41000,
+    "density": 3800,
+    "city": "Durham"
+  },
+  "27705": {
+    "population": 45800,
+    "density": 3300,
+    "city": "Durham"
+  },
+  "27707": {
+    "population": 29000,
+    "density": 4600,
+    "city": "Durham"
+  },
+  "27709": {
+    "population": 8000,
+    "density": 1500,
+    "city": "Durham"
+  },
+  "27712": {
+    "population": 36000,
+    "density": 1900,
+    "city": "Durham"
+  },
+  "27713": {
+    "population": 42000,
+    "density": 2800,
+    "city": "Durham"
+  },
+  "27514": {
+    "population": 31800,
+    "density": 3500,
+    "city": "Chapel Hill"
+  },
+  "27516": {
+    "population": 40200,
+    "density": 2400,
+    "city": "Chapel Hill"
+  },
+  "27517": {
+    "population": 12000,
+    "density": 800,
+    "city": "Chapel Hill"
+  },
+  "27510": {
+    "population": 22000,
+    "density": 4200,
+    "city": "Carrboro"
+  },
+  "27278": {
+    "population": 27000,
+    "density": 800,
+    "city": "Hillsborough"
+  },
+  "27243": {
+    "population": 4500,
+    "density": 350,
+    "city": "Efland"
+  },
+  "27312": {
+    "population": 32000,
+    "density": 500,
+    "city": "Pittsboro"
+  },
+  "27559": {
+    "population": 2500,
+    "density": 200,
+    "city": "Moncure"
+  },
+  "27258": {
+    "population": 32000,
+    "density": 1100,
+    "city": "Graham"
+  },
+  "27302": {
+    "population": 25000,
+    "density": 900,
+    "city": "Mebane"
+  },
+  "27509": {
+    "population": 21000,
+    "density": 400,
+    "city": "Butner"
+  },
+  "27522": {
+    "population": 12000,
+    "density": 500,
+    "city": "Creedmoor"
+  },
+  "27525": {
+    "population": 11000,
+    "density": 500,
+    "city": "Franklinton"
+  },
+  "27549": {
+    "population": 10000,
+    "density": 300,
+    "city": "Louisburg"
+  },
+  "27596": {
+    "population": 8000,
+    "density": 400,
+    "city": "Youngsville"
+  },
+  "27508": {
+    "population": 5000,
+    "density": 200,
+    "city": "Bunn"
+  },
+  "27330": {
+    "population": 48000,
+    "density": 800,
+    "city": "Sanford"
+  },
+  "27501": {
+    "population": 13000,
+    "density": 500,
+    "city": "Angier"
+  },
+  "27520": {
+    "population": 22000,
+    "density": 600,
+    "city": "Clayton"
+  },
+  "27527": {
+    "population": 24000,
+    "density": 1100,
+    "city": "Clayton"
+  },
+  "27542": {
+    "population": 5000,
+    "density": 200,
+    "city": "Kenly"
+  },
+  "27555": {
+    "population": 2500,
+    "density": 150,
+    "city": "Micro"
+  },
+  "27568": {
+    "population": 4000,
+    "density": 300,
+    "city": "Pine Level"
+  },
+  "27576": {
+    "population": 17000,
+    "density": 500,
+    "city": "Selma"
+  },
+  "27577": {
+    "population": 35000,
+    "density": 700,
+    "city": "Smithfield"
+  },
+  "27557": {
+    "population": 3000,
+    "density": 150,
+    "city": "Middlesburg"
+  },
+  "27882": {
+    "population": 3000,
+    "density": 150,
+    "city": "Stanhope"
+  }
 }
